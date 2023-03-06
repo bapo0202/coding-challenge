@@ -1,0 +1,69 @@
+body{
+  background-image: url(img/background.jpg);
+  background-size: cover;
+}
+
+h1{
+  color: #25FF00;
+  text-align: center;
+}
+
+
+#pulsanti-container{
+  background-color: #25FF00;
+  height: 35px;
+  width: 85%;
+  margin-left: 65px;
+  text-align: center;
+}
+
+button{
+  margin-top: 6px ;
+
+}
+
+.container{
+  background-color: black;
+  width: 60%;
+  margin-left: 330px;
+  padding-bottom: 30px;
+  padding-top: 30px;
+  background: rgba(0, 0, 0, 0.5);
+}
+
+.center{
+color: white;
+margin-inline: 50px;
+
+}
+
+h2{
+display: inline-block;
+}
+
+
+
+
+.arancio{
+background-color: orange;
+height: 35px;
+  width: 35%;
+}
+
+.verde{
+  background-color: #25FF00;
+  height: 35px;
+  width: 55%;
+}
+
+.rosso{
+  background-color: red;
+  height: 35px;
+  width: 15%;
+}
+#logo{
+  margin-left: 300px;
+  width:250px;
+  height: 100px;
+  
+}
